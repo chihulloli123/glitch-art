@@ -1,0 +1,15 @@
+/workspaces/glitch-art/GlitchArt/bin/Debug/net10.0/GlitchArt
+/workspaces/glitch-art/GlitchArt/bin/Debug/net10.0/GlitchArt.deps.json
+/workspaces/glitch-art/GlitchArt/bin/Debug/net10.0/GlitchArt.runtimeconfig.json
+/workspaces/glitch-art/GlitchArt/bin/Debug/net10.0/GlitchArt.dll
+/workspaces/glitch-art/GlitchArt/bin/Debug/net10.0/GlitchArt.pdb
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.AssemblyInfoInputs.cache
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.AssemblyInfo.cs
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.csproj.CoreCompileInputs.cache
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.sourcelink.json
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.dll
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/refint/GlitchArt.dll
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.pdb
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/GlitchArt.genruntimeconfig.cache
+/workspaces/glitch-art/GlitchArt/obj/Debug/net10.0/ref/GlitchArt.dll
